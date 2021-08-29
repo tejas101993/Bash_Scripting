@@ -1,0 +1,2 @@
+The user is :root
+Home Directory for root is /root
